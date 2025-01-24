@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HC4U 2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead2f4a6c0b97adcefc6553f362f231dad84751d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+628562c7512f9f2e9b978a3b061cb8fe4541bae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HC4U 2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HC4U 2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

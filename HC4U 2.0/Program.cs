@@ -17,6 +17,7 @@ namespace HC4U_2._0
             string repoUrl = "https://github.com/TristanAtze/HC4Uv2.git";
             string repoDir = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "HC4Uv2");
 
+            Environment.Exit(0);
             if (Directory.Exists(repoDir))
             {
                 UpdateRepo(repoDir);
